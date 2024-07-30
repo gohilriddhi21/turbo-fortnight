@@ -1,11 +1,6 @@
-# CS 6650 Distributed Systems
+# Ski Resort Load Testing Tool
 
-# Assignment 1 - Ski Resort Load Testing Tool
-
-Server Code: cs6650-lab
-Client Code: Assignment_Client_1 and Assignment_Client_2
-
-This Java application is designed to perform load testing on a ski resort's lift ride system. It simulates multiple skiers making requests to record their lift rides over a specified period. The tool measures the system's performance and generates statistics including response times, throughput, and success/failure rates.
+This Java application is designed to perform load testing on a ski resort's lift-ride system. It simulates multiple skiers making requests to record their lift rides over a specified period. The tool measures the system's performance and generates statistics including response times, throughput, and success/failure rates.
 
 ## Features
 
@@ -46,7 +41,3 @@ The program generates statistics on standard output, including mean response tim
 ## Contributors
 
 - Riddhi Gohil(https://github.com/gohilriddhi21)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
