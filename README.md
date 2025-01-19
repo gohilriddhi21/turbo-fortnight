@@ -1,4 +1,5 @@
-# Ski Resort Load Testing Tool
+# Multi-threaded Scalable Distributed System
+### Ski Resort Application
 
 This Java application is designed to perform load testing on a ski resort's lift-ride system. It simulates multiple skiers making requests to record their lift rides over a specified period. The tool measures the system's performance and generates statistics including response times, throughput, and success/failure rates.
 
