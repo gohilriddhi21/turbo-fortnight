@@ -1,7 +1,13 @@
-# Multi-threaded Scalable Distributed System
-### Ski Resort Application
-
+# Ski Resort Application
+### A multi-tier, multi-threaded scalable distributed system
+<h1 align="center">
+  <a href="https://github.com/gohilriddhi21/turbo-fortnight">
+    <img src="https://github.com/gohilriddhi21/turbo-fortnight/blob/main/docs/high_level_architecture.jpg" alt="High-Level-Arch">
+  </a>
+</h1>
+<p align="center">
 This Java application is designed to perform load testing on a ski resort's lift-ride system. It simulates multiple skiers making requests to record their lift rides over a specified period. The tool measures the system's performance and generates statistics including response times, throughput, and success/failure rates.
+</p>
 
 ## Features
 
