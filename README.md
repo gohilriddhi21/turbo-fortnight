@@ -2,7 +2,7 @@
 ### A multi-tier, multi-threaded scalable distributed system
 <h1 align="center">
   <a href="https://github.com/gohilriddhi21/turbo-fortnight">
-    <img src="https://github.com/gohilriddhi21/turbo-fortnight/blob/main/docs/high_level_architecture.jpg" alt="High-Level-Arch">
+    <img src="https://github.com/gohilriddhi21/turbo-fortnight/blob/main/docs/high-level-arch.png" alt="High-Level-Arch">
   </a>
 </h1>
 <p align="center">
